@@ -3,7 +3,7 @@
 A few Scripts for Procedural Animation and Locomotion.
 
 ## Demo scene gameplay
-![demo](./Recordings/movie_001.mp4)
+![demo](./Recordings/movie_001.gif)
 
 To use Open the Sample scene and press play you can move the spider with WASD and rotate with Q and E
 
